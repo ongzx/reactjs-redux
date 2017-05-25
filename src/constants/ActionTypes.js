@@ -1,0 +1,3 @@
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const FILTER_PRODUCT = 'FILTER_PRODUCT';
+export const RECEIVE_PRODUCTS = "RECEIVE_PRODUCTS";
